@@ -1,0 +1,4 @@
+
+songDetail与recommendSong 分到 songPackage里面
+
+other放到otherPackage里面

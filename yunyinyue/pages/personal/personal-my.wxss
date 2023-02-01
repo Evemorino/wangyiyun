@@ -1,0 +1,42 @@
+.user-section {
+  width: 100%;
+}
+
+.bg {
+  width: 100%;
+}
+.user-info-box {
+  width: 100%;
+  display: flex;
+  position: relative;
+  left: 20rpx;
+  top: -400rpx;
+}
+.user-info-box .portrait-box .portrait {
+  width: 100rpx;
+  height: 100rpx;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+.user-info-box .info-box {
+  line-height: 102rpx;
+  margin-left: 15rpx;
+  color: #333;
+}
+
+.vip-card-box {
+  position: relative;
+  left: 0;
+  top: -200rpx;
+  color: #CD7F32;
+  background: black;
+}
+.b-btn {
+  float: right;
+  border: 1rpx solid #CD7F32;
+  border-radius: 40rpx;
+  font-size: 24rpx;
+  color: black;
+  background: #ee9f50;
+  padding: 10rpx 40rpx;
+}

@@ -1,0 +1,8 @@
+1. cnpm init
+  包名 yunyinyue
+
+2. 在微信开发工具中勾选使用npm模块
+
+3. npm install pubsub-js(下载包时使用npm,不能使用cnpm)
+
+4. 工具->构建npm

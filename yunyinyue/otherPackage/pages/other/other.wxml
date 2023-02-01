@@ -1,0 +1,4 @@
+<view class="container">
+  <view class="testOpenid">获取用户openID</view>
+  <button bindtap="handelGetOpenId">点击获取</button>
+</view>
